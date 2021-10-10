@@ -1,0 +1,35 @@
+.Start_content {
+    font-family: "Open Sans";
+    line-height: 40px;
+    font-weight: 400;
+    color: #F05A28;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: 30px;
+}
+
+.Start_centered {
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    width: 50%;
+}
+
+.Start_btn {
+    font-size: 25px;
+    display: inline-block;
+    width: 200px;
+    margin-top: 10%;
+    border: solid 2px;
+    border-color: inherit;
+    padding: 8px 16px;
+    border-radius: 16px;
+    font-weight: 700;
+    
+}
+
+.Start_txt {
+
+}
